@@ -1,16 +1,15 @@
 title: "Pookie's Digital Playground"
 description: "Learning, Failing & Getting Better - My Journey into Python, Data Science & More!"
-author: "Joseph (Pookie)"
+author: "Joseph"
 baseurl: ""
-url: "https://yourgithubusername.github.io"
+url: "https://spacceddddd.github.io/Joe-s-Portfolio/"
 
 theme: jekyll-theme-cayman
 
 # Social links
 social_links:
-  github: yourgithubusername
-  twitter: yourhandle
-  linkedin: yourname
+  github: Spacceddddd
+  youtube: JJfrrrrrrrrrrrrr
 
 # Build settings
 markdown: kramdown
