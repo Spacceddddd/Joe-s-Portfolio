@@ -2,7 +2,7 @@
 ## Learning, Failing & Getting Better 💡  
 
 ### Welcome to My Blog 🚀
-Hey there! I'm **Joseph**, aka **Pookie**, and this is my personal space where I document my **journey into coding, data science, and machine learning** (while still figuring out how Python works). This blog is about **learning in public**, making mistakes, and getting better one line of code at a time.  
+Hey there! I'm **Joseph**, and this is my personal space where I document my **journey into coding, data science, and machine learning** (while still figuring out how Python works). This blog is about **learning in public**, making mistakes, and getting better one line of code at a time.  
 
 ### 🌟 What's Inside?
 - **Python & Data Science:** My first steps, projects, and struggles as I learn the ropes.  
@@ -15,8 +15,9 @@ Hey there! I'm **Joseph**, aka **Pookie**, and this is my personal space where I
 If you're also **learning Python, struggling with machine learning, or just love deep thinking**, then we're in the same boat. This is a space where I share my wins, fails, and discoveries as I navigate the world of data science—without pretending to be an expert. If you're into that, stick around!  
 
 ### 📌 Connect With Me!
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
-- **Twitter (X):** [@yourhandle](https://twitter.com/yourhandle)  
+- **GitHub:** [github.com/Spacceddddd]((https://github.com/Spacceddddd))  
+- **YouTube:** [@JJfrrrrrrrrrrrrr
+](https://youtube.com/@jjfrrrrrrrrrrrrr?si=pt91Si1SjoVeo-et)  
 - **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
 
 🚀 Learning never stops, and neither do I!
