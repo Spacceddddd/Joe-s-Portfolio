@@ -1,4 +1,4 @@
 ---
-title: Welcome to my portfolio
+title: Yo, Welcome to my portfolio, G
 ---
 
