@@ -1,3 +1,17 @@
-theme: minima
-title: Joseph's Portfolio
-description: My Portfolio
+title: "Pookie's Digital Playground"
+description: "Learning, Failing & Getting Better - My Journey into Python, Data Science & More!"
+author: "Joseph (Pookie)"
+baseurl: ""
+url: "https://yourgithubusername.github.io"
+
+theme: jekyll-theme-cayman
+
+# Social links
+social_links:
+  github: yourgithubusername
+  twitter: yourhandle
+  linkedin: yourname
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
